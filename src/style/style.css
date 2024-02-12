@@ -56,19 +56,23 @@ p#salvar1, #salvar2, #salvar3 {
         flex-direction: column;
     }
     button {
-        width: 100px;
+        width: 300px;
         height: 100px;
         font-size: 20px;
     }
     #paragrafo {
-        font-size: 20px;
+        font-size: 100px;
+        background-color: aqua;
+        height: 120px;
+        padding: 0;
+        margin: 0;
     }
 
     #salvar-local {
         border: 3px solid white;
-        font-size: 20px;
+        font-size: 50px;
         padding: 0;
-        width: 100px;
-        height: 100px;
+        width: 300px;
+        height: 200px;
     }
 }
